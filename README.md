@@ -12,8 +12,8 @@
 <p style="font-size:14px;"><i> * Paste the respective exercise code</i></p>
 
 ## Result of Exercises
-<p align="left"><img src="../assets/front-back.png" width="320" height="320" /></p>
-<p align="left"><img src="../assets/front-3.png" width="320" height="320" /></p>
-<p align="left"><img src="../assets/int-max.png" width="320" height="320" /></p>
-<p align="left"><img src="../assets/start-hi.png" width="320" height="320" /></p>
+<p align="left"><img src="./assets/front-back.png" width="320" height="320" /></p>
+<p align="left"><img src="./assets/front-3.png" width="320" height="320" /></p>
+<p align="left"><img src="./assets/int-max.png" width="320" height="320" /></p>
+<p align="left"><img src="./assets/start-hi.png" width="320" height="320" /></p>
 
