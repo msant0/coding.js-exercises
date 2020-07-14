@@ -13,12 +13,12 @@
 
 ## Result of Exercises
 ### Warmup 1
-<strong>Front-Back</strong>
+<strong><i>Front-Back</i></strong>
 <p align="left"><img src="./assets/front-back.png" width="320" height="320" /></p>
-<strong>Front3</strong>
+<strong><i>Front3</i></strong>
 <p align="left"><img src="./assets/front-3.png" width="320" height="320" /></p>
-<strong>Int Max</strong>
+<strong><i>Int Max</i></strong>
 <p align="left"><img src="./assets/int-max.png" width="320" height="320" /></p>
-<strong>Start Hi</strong>
+<strong><i>Start Hi</i></strong>
 <p align="left"><img src="./assets/start-hi.png" width="320" height="320" /></p>
 
