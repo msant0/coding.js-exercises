@@ -21,4 +21,8 @@
 <p align="left"><img src="./assets/int-max.png" width="320" height="320" /></p>
 <strong><i>Start Hi</i></strong>
 <p align="left"><img src="./assets/start-hi.png" width="320" height="320" /></p>
+<strong><i>Sum Double</i></strong>
+<p align="left"><img src="./assets/sum-double.png" width="320" height="320" /></p>
+<strong><i>Monkey Trouble</i></strong>
+<p align="left"><img src="./assets/monkey-trouble.png" width="320" height="320" /></p>
 
