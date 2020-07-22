@@ -25,4 +25,8 @@
 <p align="left"><img src="./assets/sum-double.png" width="320" height="320" /></p>
 <strong><i>Monkey Trouble</i></strong>
 <p align="left"><img src="./assets/monkey-trouble.png" width="320" height="320" /></p>
+<strong><i>del Del</i></strong>
+<p align="left"><img src="./assets/del-del.png" width="320" height="320" /></p>
+<strong><i>Mix Start</i></strong>
+<p align="left"><img src="./assets/mix-start.png" width="320" height="320" /></p>
 
